@@ -2,4 +2,4 @@
 
 (NOTE: This is only just a test :3)
 
-https://raw.githubusercontent.com/duck2469/The-Best-Application-Ever/master/BestApp.png
+![github image](https://github.com/duck2469/The-Best-Application-Ever/blob/master/BestApp.png)
