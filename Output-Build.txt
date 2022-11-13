@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: The Best Application Ever, Configuration: Debug Any CPU ------
+1>The Best Application Ever -> C:\Users\mario\source\repos\The Best Application Ever\The Best Application Ever\bin\Debug\net6.0-windows\The Best Application Ever.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Elapsed 00:02.494 ==========
